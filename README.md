@@ -1,1 +1,5 @@
-# effective-doodleJust an example repo
+# effective-doodle
+
+Just an example repo
+
+My name is James, and I love (mostly) git
